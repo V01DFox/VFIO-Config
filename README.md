@@ -14,3 +14,6 @@ Here's some features of the setup:
 * evdev setup for the mouse and keyboard input
 * PulseAudio ac97 for audio passed back to the host
 * Avoiding Nvidia Error 43 on the drivers
+
+Drawbacks
+* Refresh rate can only reach 120hz, not 144hz.
